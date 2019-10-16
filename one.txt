@@ -1,7 +1,7 @@
 class one{
 
-	void mymethod(){
-	System.out.println("Mymethod");
+	static String  mymethod(){
+	retrun " hello world";
 	}
 
 	psublic static void main(string args []){
