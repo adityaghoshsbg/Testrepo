@@ -1,0 +1,8 @@
+class one{
+
+	psublic static void main(string args []){
+
+	sysout("This is print wellcome to git");
+		}
+
+}
