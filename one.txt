@@ -1,8 +1,14 @@
 class one{
 
+	void mymethod(){
+	System.out.println("Mymethod");
+	}
+
 	psublic static void main(string args []){
 
 	sysout("This is print wellcome to git");
-		}
+	
+	
+	}
 
 }
