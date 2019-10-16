@@ -1,7 +1,7 @@
 class one{
 
-	void mymethod(){
-	System.out.println("Mymethod");
+	PUBLIC STATSIC void mymethod(STring str ){
+	S.out.println("str")
 	}
 
 	psublic static void main(string args []){
