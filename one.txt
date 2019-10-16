@@ -1,7 +1,9 @@
 class one{
 
-	PUBLIC STATSIC void mymethod(STring str ){
-	S.out.println("str")
+
+	static String  mymethod(){
+	retrun " hello world";
+
 	}
 
 	psublic static void main(string args []){
@@ -12,4 +14,4 @@ class one{
 	}
 
 }
-asdassa
+
